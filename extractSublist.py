@@ -6,4 +6,5 @@ start_index = int(input("Enter start index: "))
 end_index = int(input("Enter end index: "))
 # Create a sublist from the original list using the specified start and end indices
 sublist = list[start_index:end_index]
+#start_index to end_index-1
 print(sublist)
