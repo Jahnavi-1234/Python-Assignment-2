@@ -18,7 +18,7 @@ if exams_passed:
             if remaining_subjects:
 
                  print("Subjects left to pass:", remaining_subjects)
-    else:
-        print("All subjects passed!")
+            else:
+                print("All subjects passed!")
 else:
     print("The student has not passed the session yet.")
