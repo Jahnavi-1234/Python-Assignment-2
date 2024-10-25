@@ -1,4 +1,4 @@
-#Define Dictionary
+# Original dictionary
 dict = {1: 'one', 2: 'two', 3: 'three'}
 
 # New dictionary
@@ -11,8 +11,5 @@ for key, value in dict.items():
 # Manually set 'three' to 3
 new_dict['three'] = 3
 
-#Output: {’one’: 1, ’two’: 1, ’three’: 3}
+# Output : {'one': 1, 'two': 1, 'three': 3}
 print(new_dict)
-
-
-
